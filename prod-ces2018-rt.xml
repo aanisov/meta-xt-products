@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="github" fetch="git://github.com" />
+
+    <default remote="github" sync-j="10" sync-c="true" />
+
+    <project name="aanisov/meta-xt-prod-ces2018" path="meta-xt-prod-ces2018" upstream="master" revision="master" />
+    <project name="aanisov/meta-xt-images" path="meta-xt-images" upstream="master" revision="master" />
+    <project name="aanisov/xt-distro" path="xt-distro" upstream="master" revision="master" />
+</manifest>
